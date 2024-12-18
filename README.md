@@ -13,3 +13,6 @@ DescuentoTotal: PrecioUnitario*Cantidad*Descuento
 CosteTotal: PrecioUnitarioCompra*Cantidad
 Margen: ImporteTotal/CosteTotal-1
 ![DatosPowerPivot](https://github.com/user-attachments/assets/706ce1e5-895f-441c-a2b8-4d527e3a1a88)
+
+Como se mencionó anteriormente, se usó Power Query para juntar datos de diferentes tablas, con la implementación de Power Pivot, es posible relacionar directamente las columnas de una tabla con otra de otra tabla, es importante que las relaciones se hagan con columnas que contengan los mismos datos, de esta manera se puede extraer valores que coincidan con dichas columnas, es decir, una relación de uno a muchos como lo podemos observar en el siguiente diagrama:
+![DiagramaPowerPivot](https://github.com/user-attachments/assets/2519420a-a4a7-4dc5-9f9e-83d8effd4469)
