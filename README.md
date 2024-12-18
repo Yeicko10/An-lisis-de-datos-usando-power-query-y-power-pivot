@@ -12,3 +12,4 @@ ImporteTotal: PrecioUnitario*Cantidad*(1-Descuento)
 DescuentoTotal: PrecioUnitario*Cantidad*Descuento
 CosteTotal: PrecioUnitarioCompra*Cantidad
 Margen: ImporteTotal/CosteTotal-1
+![DatosPowerPivot](https://github.com/user-attachments/assets/706ce1e5-895f-441c-a2b8-4d527e3a1a88)
