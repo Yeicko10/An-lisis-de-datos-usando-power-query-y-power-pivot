@@ -14,5 +14,16 @@ CosteTotal: PrecioUnitarioCompra*Cantidad
 Margen: ImporteTotal/CosteTotal-1
 ![DatosPowerPivot](https://github.com/user-attachments/assets/706ce1e5-895f-441c-a2b8-4d527e3a1a88)
 
+
 Como se mencionó anteriormente, se usó Power Query para juntar datos de diferentes tablas, con la implementación de Power Pivot, es posible relacionar directamente las columnas de una tabla con otra de otra tabla, es importante que las relaciones se hagan con columnas que contengan los mismos datos, de esta manera se puede extraer valores que coincidan con dichas columnas, es decir, una relación de uno a muchos como lo podemos observar en el siguiente diagrama:
 ![DiagramaPowerPivot](https://github.com/user-attachments/assets/2519420a-a4a7-4dc5-9f9e-83d8effd4469)
+
+
+Una vez establecidas las consultas con power query y establecidas las relaciones entre tablas con power pivot, se procede a crear, desde la misma ventana de power pivot, una tabla dinámica, esto nos permite visualizar las tablas que queremos relacionar, sus valores y relacionarlos, este procedimiento nos evita el uso de funciones como por ejemplo "BUSCARV".
+
+Ahora que tenemos todas las tablas relacionadas y los campos calculados necesarios, procedemos a realizar el primer análisis:
+Queremos visualizar cuales son los países a los que se ha hecho un mayor importe según la categoría de productos, de esta manera podemos determinar en cuales países se debe aumentar el importe, así como los productos que mayor gastos genera.
+En la siguiente tabla podemos visualizar el importe de productos a los diferentes países con sus totales generales, en cada columna de categría se implementó un formato condicional para ver en qué país fue superior el importe, y en los totales generales un formato condicional con mapa de calor para mostrar los países que menos importe tuvieron (color rojo) y los que mayor importe tuvieron (color verde).
+
+![ResultadosPaisCategoria](https://github.com/user-attachments/assets/b24cc60a-39d5-4e76-9620-36b9cf0d48bf)
+
