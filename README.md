@@ -34,7 +34,7 @@ La siguiente tabla muestra el importe de los productos por país, junto con los 
 ![ResultadosPaisCategoria](https://github.com/user-attachments/assets/b24cc60a-39d5-4e76-9620-36b9cf0d48bf)
 
 
-Ahora, es ideal mostrar cuales de nuestros clientes nos ha solicitado mayor número de pedidos. Para esto, se creó una nueva tabla dinámica en la cual relacionamos las tablas de clientes y ordenes, utilizando la función de recuento, podemos observar el número de pedidos solicitados por cada cliente, esto nos ayuda a tener un balance general de cuales clientes generan mayor facturación o pedidos recurrentes. Se muestran los 10 clientes que más número de pedidos han solicitado.
+Ahora, es ideal mostrar cuales de nuestros clientes nos ha solicitado mayor número de pedidos. Para esto, se creó una nueva tabla dinámica en la cual relacionamos las tablas de clientes y ordenes, a partir de esta, se creó un gráfico dinámico circular, utilizando la función de recuento, podemos observar el número de pedidos solicitados por cada cliente, esto nos ayuda a tener un balance general de cuales clientes generan mayor facturación o pedidos recurrentes. Se muestran los 10 clientes que más número de pedidos han solicitado.
 
 
 ![CantidadOrdenes2](https://github.com/user-attachments/assets/bb509c9c-8a49-4569-8ac6-0171fb150757)
