@@ -30,4 +30,5 @@ En la siguiente tabla podemos visualizar el importe de productos a los diferente
 
 Ahora, es ideal mostrar cuales de nuestros clientes nos ha solicitado mayor número de pedidos. Para esto, se creó una nueva tabla dinámica en la cual relacionamos las tablas de clientes y ordenes, utilizando la función de recuento, podemos observar el número de pedidos solicitados por cada cliente, esto nos ayuda a tener un balance general de cuales son nuestros clientes más potenciales, en esta oportnidad se muestran los 10 clientes que más número de pedidos han solicitado.
 
-![CantidadOrdenes](https://github.com/user-attachments/assets/e517c888-e096-4561-ba3f-40f7a4e8511b)
+
+![CantidadOrdenes2](https://github.com/user-attachments/assets/bb509c9c-8a49-4569-8ac6-0171fb150757)
