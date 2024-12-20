@@ -27,3 +27,5 @@ En la siguiente tabla podemos visualizar el importe de productos a los diferente
 
 ![ResultadosPaisCategoria](https://github.com/user-attachments/assets/b24cc60a-39d5-4e76-9620-36b9cf0d48bf)
 
+
+Ahora, es ideal mostrar cuales de nuestros clientes nos ha solicitado mayor número de pedidos. Para esto, se creó una nueva tabla dinámica en la cual relacionamos las tablas de clientes y ordenes, utilizando la función de recuento, podemos observar el número de pedidos solicitados por cada cliente, esto nos ayuda a tener un balance general de cuales son nuestros clientes más potenciales, en esta oportnidad se muestran los 10 clientes que más número de pedidos han solicitado.
