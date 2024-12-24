@@ -38,3 +38,13 @@ Ahora, es ideal mostrar cuales de nuestros clientes nos ha solicitado mayor núm
 
 
 ![CantidadOrdenes2](https://github.com/user-attachments/assets/bb509c9c-8a49-4569-8ac6-0171fb150757)
+
+
+Ahora que analizamos cuales de los clientes nos han solicitado un mayor número de pedidos, es pertinente evaluar cuáles de los vendedores han realizado un mayor número de venta, para esto vamos a analizar el precio total de ventas de cada uno. 
+Usando los indicadores clave de rendimiento visualizaremos de forma sencilla cuales vendedores están siendo más proveen mayor beneficio y cuales un beneficio más bajo. A continuación se muestran los criterios que han sido elegidos para evaluar el rendimiento.  
+
+Ventas menores a 76000: bajo beneficio  
+Ventas entre 76000 y 150000: beneficio medio  
+Ventas superiores a 150000: beneficio alto
+
+![KPI](https://github.com/user-attachments/assets/be1e3b78-36a8-4f8d-b25b-fd2eab6769f6)
