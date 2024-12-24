@@ -48,3 +48,8 @@ Ventas entre 76000 y 150000: beneficio medio
 Ventas superiores a 150000: beneficio alto
 
 ![KPI](https://github.com/user-attachments/assets/be1e3b78-36a8-4f8d-b25b-fd2eab6769f6)
+
+Establecidos los criterios de rendimiento, procedemos a observar, a través de una tabla muy sencilla, los vendedores que mayor y menor benficio están aportando en las ventas. Los vendedores están presentados por el apellido y en la columna "estado" un círculo con los colores rojos (bajo benficio), amarillo (beneficio medio), verde (beneficio alto). Podemos observar que los vendedores que menos ventas realizaron fueron Buchanan y Suyama, mientras que los que más beneficios aportaron fueron Leverling y Peacock.
+
+
+![VentasVendedoresKPI](https://github.com/user-attachments/assets/94a1d46b-8b8c-4e5d-a438-e54a7aa22fcb)
